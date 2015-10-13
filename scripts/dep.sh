@@ -4,4 +4,6 @@
 
 apt-get -y update
 
-apt-get -y install curl wget vim htop
+DEBIAN_FRONTEND=noninteractive
+
+apt-get -y install curl wget vim

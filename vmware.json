@@ -1,14 +1,14 @@
 {
     "push": {
-      "name": "zig-zag/docktor-master-test",
+      "name": "zig-zag/ubuntu-trusty64",
       "vcs": true
     },
     "variables": {
         "atlas_username": "zig-zag",
-        "atlas_name": "docktor-master-test",
+        "atlas_name": "ubuntu-trusty64",
         "iso_checksum": "a3b345908a826e262f4ea1afeb357fd09ec0558cf34e6c9112cead4bb55ccdfb",
         "iso_url": "http://releases.ubuntu.com/trusty/ubuntu-14.04.3-server-amd64.iso",
-        "version": "0.0.18"
+        "version": "0.0.2"
     },
     "provisioners": [
         {
